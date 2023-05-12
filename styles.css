@@ -1,0 +1,583 @@
+.MacBookProRootRoot {
+    gap: 16.7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px 70px 112px 70px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.Group {
+    width: 98.68%;
+    gap: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: -18px 0px 0px 0px;
+    box-sizing: border-box;
+}
+
+.Group4 {
+    width: 37.4%;
+    gap: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    margin: 58px 72px 0px 0px;
+    box-sizing: border-box;
+}
+
+.RC {
+    align-self: flex-start;
+    margin: 0px 0px 146px 0px;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: Lexend;
+    box-sizing: border-box;
+}
+
+.Group6 {
+    width:94.2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px 3px 118px 3px;
+    box-sizing: border-box;
+}
+    
+    .HiImWebDeveloperAndSoftwareEngineer {
+        width: 552px;
+        height: 120px;
+        left: 0px;
+        top: 34px;
+        position: absolute;
+        font-size: 48px;
+        font-weight: 600;
+        font-family: Lexend;
+        white-space: pre-wrap;
+        box-sizing: border-box;
+    }
+    
+    .WelcomeMyPortfolio {
+        position: relative;
+        font-size: 24px;
+        font-family: Hannari;
+        white-space: nowrap;
+        box-sizing: border-box;
+    }
+    
+    .Rectangle {
+        width: 278px;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin: 0px 150px 0px 0px;
+        padding: 25px 82px 30px 82px;
+        border-radius: 19px;
+        box-sizing: border-box;
+        background-color: #d9d9d9;
+    }
+    
+    .CONTACTME {
+        position: relative;
+        font-size: 16.5px;
+        font-family: Lexend;
+        white-space: nowrap;
+        box-sizing: border-box;
+    }
+    
+    .Home {
+        position: relative;
+        margin: 61px 0px 0px 0px;
+        font-size: 20px;
+        font-family: Lexend;
+        box-sizing: border-box;
+    }
+    
+    .Group5 {
+        width: 47.93%;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-self: center;
+        align-items: flex-end;
+        padding: 45.2px 0px 622px 0px;
+        box-sizing: border-box;
+    }
+    
+    .Changecolorsatgreatdesign {
+        width: 99.89%;
+        height: 737px;
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        gap: 48.2px;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: flex-start;
+        padding: 38.2px 132px;
+        box-sizing: border-box;
+        background-size: cover;
+        background-image: url("https://file.rendit.io/n/qMMXGTdJ5BWk9gF42cFW.png");
+    }
+    
+    .Vector8 {
+        width: 79.7px;
+        position: relative;
+        display: flex;
+        flex-shrink: 0;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+        margin: 0px 0px 590px 0px;
+        padding: 21.4px 17.7px 20.3px 17.7px;
+        box-sizing: border-box;
+        background-size: cover;
+        background-image: url("https://file.rendit.io/n/7XXw2oa35qjrpUo2HEAx.svg");
+    }
+    
+    .Vector10 {
+        width: 62px;
+        min-width: 0px;
+        min-height: 0px;
+        position: relative;
+        flex-shrink: 0;
+        margin: 0.84px 7px 0px 0px;
+        box-sizing: border-box;
+    }
+.Vector4 {
+    width: 77.2px;
+    position: relative;
+    display: flex;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 19.7px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/YxWT5Z4O8czMzqc9AUs1.svg");
+}
+
+.Vector5 {
+    width: 37.8px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 6.86px 7.55px 9.15px 7.55px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/sZW69awzRjT6reQ8QP6Y.svg");
+}
+
+.Vector7 {
+    width: 3.78px;
+    min-width: 0px;
+    min-height: 0px;
+    position: relative;
+    align-self: flex-end;
+    box-sizing: border-box;
+}
+
+.Vector6 {
+    width: 16.4px;
+    min-width: 0px;
+    min-height: 0px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.Vector2 {
+    width: 77.7px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 19.1px 22.4px 24.9px 22.4px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/CxoLGI1BUqvsqwZwZAtW.svg");
+}
+
+.Vector3 {
+    width: 30.4px;
+    min-width: 0px;
+    min-height: 0px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.Group1 {
+    width: 95.34%;
+    position: relative;
+    gap: 54.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 102px 29.5px;
+    box-sizing: border-box;
+}
+
+.Group7 {
+    width: 33.02%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    box-sizing: border-box;
+}
+
+.Vector {
+    width: 83.47%;
+    height: 464px;
+    left: 60.8441162109375px;
+    top: 7.520263671875px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 57.3px 20.2px 9px 20.2px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/9QbPf0yNLBV84ia6OsxN.svg");
+}
+
+.IMG {
+    min-width: 0px;
+    min-height: 0px;
+    position: relative;
+    border-width: 1px;
+    box-sizing: border-box;
+}
+
+.Group8 {
+    width: 63.4%;
+position: relative;
+    gap: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-start;
+    align-items: flex-start;
+    margin: 38.3px 0px 0px 0px;
+    box-sizing: border-box;
+}
+
+.AboutMe {
+    position: relative;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: Lexend;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+
+.HiIAmRicardoRCondadoAWebDesignerdeveloperFocusedOnCraftingGreatWebExperiencesDesigningAndCodingHaveBeenMyPassionSinceTheDaysIStartedWorkingWithComputersButIFoundMyselfIntoWebDesigndevelopmentSinceIEnjoyCreatingIntuitiveAndFunctionalWebsites {
+    width: 99.51%;
+    position: relative;
+    align-self: flex-end;
+    margin: 0px 0px 48px 0px;
+    font-size: 24px;
+    font-family: Lexend;
+    line-height: 35.40000057220459px;
+    box-sizing: border-box;
+}
+
+.Rectangle1 {
+    width: 196px;
+    position: relative;
+    gap: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0px 0px 0px 5px;
+    padding: 8px 6px;
+    border-radius: 11px;
+    box-sizing: border-box;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-image: linear-gradient(180deg,
+            #05e0c5 0%,
+            rgba(82, 101, 137, 0.64) 100%);
+}
+
+.DownloadCV {
+    position: relative;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Lexend;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+
+.Rectangle3 {
+    width: 38px;
+    min-width: 0px;
+    min-height: 0px;
+    position: relative;
+    flex-shrink: 0;
+    align-self: flex-start;
+    margin: 0px 0px 5px 0px;
+    box-sizing: border-box;
+}
+
+.Rectangle2 {
+    width: 1338px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    margin: 0px 0px 80.3px 116px;
+    padding: 91px 583px 483px 583px;
+    border-radius: 63px;
+    box-sizing: border-box;
+    background-color: #141414;
+}
+
+.Skills {
+    width: 95.37%;
+    height: 325px;
+    left: 38px;
+    top: 171px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 24px 87.1px 24px 385px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/0WVfU31bNs95HO4tdCWX.png");
+}
+
+.Group9 {
+    width: 140px;
+    position: relative;
+    gap: 1px;
+    display: flex;
+    flex-direction: column;
+position: relative;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-end;
+    align-items: flex-start;
+    margin: 26px 0px 0px 0px;
+    box-sizing: border-box;
+}
+
+.AWS {
+    position: relative;
+    margin: 0px 0px 30px 0px;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Lexend;
+    text-transform: uppercase;
+    box-sizing: border-box;
+}
+
+.MONGODB {
+    position: relative;
+    align-self: stretch;
+    margin: 0px 0px 38px 0px;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Lexend;
+    white-space: nowrap;
+    text-transform: uppercase;
+    box-sizing: border-box;
+}
+
+.Group10 {
+    width: 119px;
+    position: relative;
+    display: flex;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 26px 0px 0px 0px;
+    box-sizing: border-box;
+}
+
+.Python {
+    position: relative;
+    margin: 0px 0px 32px 0px;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Lexend;
+    text-transform: uppercase;
+    box-sizing: border-box;
+}
+
+.SQL {
+    position: relative;
+    margin: 0px 0px 37px 0px;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Lexend;
+    text-transform: uppercase;
+    box-sizing: border-box;
+}
+
+.REACTJS {
+    position: relative;
+    align-self: stretch;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Lexend;
+    white-space: nowrap;
+    text-transform: uppercase;
+    box-sizing: border-box;
+}
+
+.Skills1 {
+    position: relative;
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: Lexend;
+    box-sizing: border-box;
+}
+
+.Projects {
+    position: relative;
+    align-self: flex-end;
+    margin: 0px 664px 94.3px 0px;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: Lexend;
+    box-sizing: border-box;
+}
+
+.Group2 {
+    width: 90.87%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 0px 98.3px 58px;
+    box-sizing: border-box;
+}
+
+.CapturaDePantalla1 {
+    min-width: 0px;
+    min-height: 0px;
+    position: relative;
+    align-self: flex-start;
+    box-sizing: border-box;
+}
+
+.ContactMe {
+    position: relative;
+    margin: 0px 0px 63.3px 92px;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: Lexend;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+
+.Group3 {
+    width: 1302px;
+    position: relative;
+    display: flex;
+flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 0px 53.3px 128px;
+    box-sizing: border-box;
+}
+
+.Rectangle4 {
+    width: 37.33%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 19px 45px;
+    border-width: 3px;
+    border-radius: 28px;
+    border-style: solid;
+    border-color: #76a121;
+    box-sizing: border-box;
+}
+
+.Name1 {
+    position: relative;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Lexend;
+    white-space: pre-wrap;
+    box-sizing: border-box;
+}
+
+.Rectangle5 {
+    width: 37.33%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 19px 39px;
+    border-width: 3px;
+    border-radius: 28px;
+    border-style: solid;
+    border-color: #905d9a;
+    box-sizing: border-box;
+}
+
+.Rectangle7 {
+    width: 1302px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 0px 28.3px 128px;
+    padding: 29px 93px 202px 93px;
+    border-width: 3px;
+    border-radius: 28px;
+    border-style: solid;
+    border-color: #544d65;
+    box-sizing: border-box;
+}
+
+.Rectangle6 {
+    width: 219px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 0px 683px;
+    padding: 17px 69px;
+    border-width: 10px;
+    border-radius: 28px;
+    border-style: solid;
+    border-color: #a44a5b;
+    box-sizing: border-box;
+}
